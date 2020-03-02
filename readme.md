@@ -5,7 +5,7 @@ Task Manager API
 The real demo is on Heroku: https://yz-task-manager.herokuapp.com/
 -----
 
-### If you want to test the application, please user Postman because this application is only for backend with NodeJS and MongoDB Database. 
+### If you want to test the application, please use Postman because this application is only for backend with NodeJS and MongoDB Database. 
 
 There are mainly two properties which are Users and Tasks. Users can sign in using their "name, age, email, password" and the server will generate a  token for the user. 
 
